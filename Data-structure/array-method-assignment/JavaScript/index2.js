@@ -1,3 +1,4 @@
+
 // Use the below two arrays and practice array methods
 var numbers = [1, 12, 4, 18, 9, 7, 11, 3, 101, 5, 6, 9];
 var strings = ['This', 'is', 'a', 'collection', 'of', 'words'];
