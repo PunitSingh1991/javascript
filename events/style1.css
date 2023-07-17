@@ -1,0 +1,27 @@
+
+ 
+ .one {
+    width: 800px;
+    height: 600px;
+    text-align: left;
+    font-size: 40px;
+    background-color: rgb(117, 225, 242);
+ }
+
+ .two{
+    width: 600px;
+    height: 400px;
+    text-align: left;
+    font-size: 40px;
+    margin: auto;
+    background-color: rgb(87, 182, 128);
+ }
+
+ .three{
+    width: 400px;
+    height: 200px;
+    text-align:left;
+    font-size: 40px;
+    margin:auto;
+    background-color: rgb(228, 226, 137);
+ } 
